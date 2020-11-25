@@ -1,0 +1,51 @@
+h1{
+    color: darkblue;
+}
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.camel{
+    background-color: red ;
+    display: flex;
+    justify-content: space-evenly;
+    color: limegreen;
+}
+
+.chameleon{
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-evenly;
+    color:blue;
+}
+
+.pigeon{
+    background-color: limegreen;
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(0, 102, 255);
+}
+
+.panda{
+    background-color: rgb(255, 94, 0);
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(106, 9, 197);
+}
+
+.teddy{
+    background-color: rgb(247, 0, 255);
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(125, 0, 150);
+}
+
+.cicada{
+    background-color: rgb(255, 0, 98);
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(130, 15, 134);
+}
